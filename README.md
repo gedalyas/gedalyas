@@ -21,11 +21,11 @@ Aberto a oportunidades de **estágio ou vaga júnior**.
 
 ## 🚀 Projetos em Destaque
 
-### [Prospera Finanças](https://github.com/gedalyas/prospera-financas)
+### [Prospera Finanças](https://github.com/gedalyas/financas-pessoais)
 SaaS autoral de controle financeiro pessoal com dashboards, metas e integração com **Mercado Pago** via webhooks.
 `React` `Node.js` `Vercel` `Cloudflare`
 
-### [JVR Imóveis](https://jvrimoveis.com.br)
+### [JVR Imóveis](https://www.jvrimoveis.com.br/)
 Plataforma imobiliária em produção para cliente real, com busca filtrável por localização, finalidade e características.
 `Next.js` `TypeScript` `Tailwind CSS` `Node.js`
 
@@ -34,4 +34,4 @@ Plataforma imobiliária em produção para cliente real, com busca filtrável po
 ## 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davi-alsouto)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davialsouto@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://www.davisouto.dev/)
