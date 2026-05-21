@@ -1,7 +1,7 @@
 # Davi Almeida Souto
 
 Desenvolvedor Full Stack focado em React, Next.js e Node.js.
-Atuo de forma autônoma entregando sistemas web completos — do levantamento de requisitos ao deploy em produção.
+Atuo de forma autônoma entregando sistemas web completos, do levantamento de requisitos ao deploy em produção.
 Aberto a oportunidades de **estágio ou vaga júnior**.
 
 ---
