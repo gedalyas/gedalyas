@@ -56,7 +56,7 @@ Aberto a oportunidades de **estágio ou vaga júnior**.
 SaaS autoral de controle financeiro pessoal com dashboards, metas e integração com **Mercado Pago** via webhooks.
 `React` `Node.js` `Vercel` `Cloudflare`
 
-### [JVR Imóveis](https://www.jvrimoveis.com.br/)
+### [JVR Imóveis](https://github.com/gedalyas/site-jvr)
 Plataforma imobiliária em produção para cliente real, com busca filtrável por localização, finalidade e características.
 `Next.js` `TypeScript` `Tailwind CSS` `Node.js`
 
