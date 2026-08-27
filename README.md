@@ -72,17 +72,6 @@ Plataforma imobiliária em produção para cliente real, com busca filtrável po
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=gedalyas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gedalyas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A)
-
-</div>
-
----
-
 ## 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davi-alsouto)
