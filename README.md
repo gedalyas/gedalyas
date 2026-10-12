@@ -1,80 +1,77 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:06B6D4&height=200&section=header&text=Davi%20Almeida%20Souto&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Desenvolvedor%20Full%20Stack&descSize=18&descAlignY=60)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:06B6D4&height=180&section=header&text=Davi%20Almeida%20Souto&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20%E2%80%A2%20React%20%C2%B7%20Next.js%20%C2%B7%20Node.js&descSize=16&descAlignY=62)
+
+[![Portfólio](https://img.shields.io/badge/davisouto.dev-111827?style=flat-square&logo=vercel&logoColor=white)](https://www.davisouto.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/davi-alsouto)
 
 </div>
 
-<div align="center">
+```ts
+const davi = {
+  faz: "sistemas web completos — do levantamento de requisitos ao deploy",
+  foco: ["React", "Next.js", "Node.js"],
+  emProducao: ["Prospera Finanças", "JVR Imóveis"],
+  estudandoAgora: ["arquitetura backend", "Python para dados"],
+  procurando: "projetos e oportunidades onde backend é o centro",
+};
+```
 
-Desenvolvedor Full Stack focado em **React**, **Next.js** e **Node.js**.<br>
-Atuo de forma autônoma entregando sistemas web completos — do levantamento de requisitos ao deploy em produção.
+## 🚀 Projetos
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://www.davisouto.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davi-alsouto)
-
-</div>
-
----
-
-## 🛠 Stack
-
-**Front-end**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Back-end**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Banco de Dados & ORM**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-**DevOps & Deploy**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Agentes de IA**
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-
----
-
-## 🚀 Projetos em Destaque
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### [Prospera Finanças](https://github.com/gedalyas/financas-pessoais)
-SaaS autoral de controle financeiro pessoal com dashboards, metas e integração com **Mercado Pago** via webhooks.
+
+<img src="./assets/prospera.png" alt="Dashboard do Prospera" width="100%">
+
+SaaS autoral de finanças pessoais com dashboards, metas e assinatura via **Mercado Pago** (webhooks).
+
+**Desafio técnico:** _uma frase sobre o problema mais difícil — ex.: idempotência dos webhooks de pagamento._
 
 `React` `Node.js` `Vercel` `Cloudflare`
 
+[Ver ao vivo →](https://LINK) · [Código →](https://github.com/gedalyas/financas-pessoais)
+
+</td>
+<td width="50%" valign="top">
+
 ### [JVR Imóveis](https://github.com/gedalyas/site-jvr)
-Plataforma imobiliária em produção para cliente real, com busca filtrável por localização, finalidade e características.
+
+<img src="./assets/jvr.png" alt="Busca de imóveis da JVR" width="100%">
+
+Plataforma imobiliária **em produção para cliente real**, com busca filtrável por localização, finalidade e características.
+
+**Resultado:** _um dado concreto — ex.: nº de imóveis cadastrados, tempo de carregamento, leads por mês._
 
 `Next.js` `TypeScript` `Tailwind CSS` `Node.js`
 
+[Ver ao vivo →](https://LINK) · [Código →](https://github.com/gedalyas/site-jvr)
+
+</td>
+</tr>
+</table>
+
+## 🛠 Stack
+
+<p>
+  <b>Uso no dia a dia</b><br><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,express,postgres,prisma,docker,vercel&theme=dark" />
+</p>
+
+<p>
+  <b>Também trabalho com</b><br><br>
+  <img src="https://skillicons.dev/icons?i=js,py,java,mysql,sqlite,supabase,cloudflare,git,postman&theme=dark" />
+</p>
+
+<sub>Deploy também em Railway e Render · Desenvolvo com apoio de agentes de IA (Claude, GitHub Copilot)</sub>
+
+<div align="center">
+
 ---
 
-## 📬 Contato
+<sub>Aberto a conversar sobre projetos — me chama no [LinkedIn](https://linkedin.com/in/davi-alsouto) 👋</sub>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davi-alsouto)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://www.davisouto.dev/)
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:0F172A&height=100&section=footer)
+</div>
