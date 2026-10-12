@@ -14,7 +14,7 @@
 
 <p align="center">
   Construo sistemas web completos — do levantamento de requisitos ao deploy em produção.<br>
-  Hoje meu foco é <b>React</b>, <b>Next.js</b> e <b>Node.js</b>, e estou me aprofundando em <b>backend</b> e <b>Python para dados</b>.
+  No dia a dia trabalho com <b>React</b>, <b>Next.js</b> e <b>Node.js</b>; fora dele, curto explorar <b>dados</b>, <b>Python</b> e <b>RAG</b> com LLMs.
 </p>
 
 <br>
