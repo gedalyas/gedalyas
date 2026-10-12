@@ -25,8 +25,6 @@ const davi = {
 
 ### [Prospera Finanças](https://github.com/gedalyas/financas-pessoais)
 
-<img src="./assets/prospera.png" alt="Dashboard do Prospera" width="100%">
-
 SaaS autoral de finanças pessoais com dashboards, metas e assinatura via **Mercado Pago** (webhooks).
 
 **Desafio técnico:** _uma frase sobre o problema mais difícil — ex.: idempotência dos webhooks de pagamento._
@@ -39,8 +37,6 @@ SaaS autoral de finanças pessoais com dashboards, metas e assinatura via **Merc
 <td width="50%" valign="top">
 
 ### [JVR Imóveis](https://github.com/gedalyas/site-jvr)
-
-<img src="./assets/jvr.png" alt="Busca de imóveis da JVR" width="100%">
 
 Plataforma imobiliária **em produção para cliente real**, com busca filtrável por localização, finalidade e características.
 
@@ -67,6 +63,17 @@ Plataforma imobiliária **em produção para cliente real**, com busca filtráve
 </p>
 
 <sub>Deploy também em Railway e Render · Desenvolvo com apoio de agentes de IA (Claude, GitHub Copilot)</sub>
+
+## 📊 Estatísticas
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=gedalyas&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0F172A&title_color=06B6D4&icon_color=06B6D4&text_color=E2E8F0&locale=pt-br" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gedalyas&layout=compact&langs_count=6&hide_border=true&bg_color=0F172A&title_color=06B6D4&text_color=E2E8F0&locale=pt-br" />
+
+<img src="https://streak-stats.demolab.com?user=gedalyas&hide_border=true&background=0F172A&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4&sideLabels=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=94A3B8&locale=pt_BR" />
+
+</div>
 
 <div align="center">
 
