@@ -81,4 +81,4 @@ Plataforma imobiliária **em produção para cliente real**, com busca filtráve
 
 <sub>Aberto a conversar sobre projetos — me chama no [LinkedIn](https://linkedin.com/in/davi-alsouto) 👋</sub>
 
-</div>
+</div>****
