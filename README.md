@@ -1,5 +1,5 @@
 <a href="https://www.davisouto.dev/">
-  <img src="./assets/banner.svg" alt="Davi Almeida Souto — Desenvolvedor Full Stack" width="100%">
+    <img src="https://raw.githubusercontent.com/gedalyas/gedalyas/main/assets/banner.svg" alt="Davi Almeida Souto — Desenvolvedor Full Stack" width="100%">
 </a>
 
 <br>
